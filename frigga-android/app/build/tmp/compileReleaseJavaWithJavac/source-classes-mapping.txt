@@ -1,0 +1,43 @@
+org/apache/cordova/inappbrowser/InAppBrowser.java
+ org.apache.cordova.inappbrowser.InAppBrowser
+ org.apache.cordova.inappbrowser.InAppBrowser$1
+ org.apache.cordova.inappbrowser.InAppBrowser$2
+ org.apache.cordova.inappbrowser.InAppBrowser$3
+ org.apache.cordova.inappbrowser.InAppBrowser$4
+ org.apache.cordova.inappbrowser.InAppBrowser$5
+ org.apache.cordova.inappbrowser.InAppBrowser$6
+ org.apache.cordova.inappbrowser.InAppBrowser$6$1
+ org.apache.cordova.inappbrowser.InAppBrowser$7
+ org.apache.cordova.inappbrowser.InAppBrowser$7$1
+ org.apache.cordova.inappbrowser.InAppBrowser$7$1JsObject
+ org.apache.cordova.inappbrowser.InAppBrowser$7$2
+ org.apache.cordova.inappbrowser.InAppBrowser$7$3
+ org.apache.cordova.inappbrowser.InAppBrowser$7$4
+ org.apache.cordova.inappbrowser.InAppBrowser$7$5
+ org.apache.cordova.inappbrowser.InAppBrowser$InAppBrowserClient
+org/apache/cordova/device/Device.java
+ org.apache.cordova.device.Device
+org/apache/cordova/whitelist/WhitelistPlugin.java
+ org.apache.cordova.whitelist.WhitelistPlugin
+ org.apache.cordova.whitelist.WhitelistPlugin$1
+ org.apache.cordova.whitelist.WhitelistPlugin$CustomConfigXmlParser
+org/apache/cordova/splashscreen/SplashScreen.java
+ org.apache.cordova.splashscreen.SplashScreen
+ org.apache.cordova.splashscreen.SplashScreen$1
+ org.apache.cordova.splashscreen.SplashScreen$2
+ org.apache.cordova.splashscreen.SplashScreen$3
+ org.apache.cordova.splashscreen.SplashScreen$4
+ org.apache.cordova.splashscreen.SplashScreen$4$1
+ org.apache.cordova.splashscreen.SplashScreen$5
+ org.apache.cordova.splashscreen.SplashScreen$5$1
+ org.apache.cordova.splashscreen.SplashScreen$6
+ org.apache.cordova.splashscreen.SplashScreen$6$1
+ org.apache.cordova.splashscreen.SplashScreen$7
+org/apache/cordova/inappbrowser/InAppBrowserDialog.java
+ org.apache.cordova.inappbrowser.InAppBrowserDialog
+com/frigga/app/MainActivity.java
+ com.frigga.app.MainActivity
+org/apache/cordova/inappbrowser/InAppChromeClient.java
+ org.apache.cordova.inappbrowser.InAppChromeClient
+com/frigga/app/BuildConfig.java
+ com.frigga.app.BuildConfig
