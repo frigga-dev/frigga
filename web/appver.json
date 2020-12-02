@@ -1,0 +1,10 @@
+{
+    "IOS":{
+        "ver":1.0,
+        "url":"https://api.lianzhushou.net/HTyI"
+    },
+    "Android":{
+        "ver":1.0,
+        "url":"http://frigga.in/downloads/frigga.apk"
+    }
+}
