@@ -1,0 +1,7 @@
+#Thu Nov 12 14:28:50 CST 2020
+base.0=/Users/jeffyan/jeff.yan/work/qq/frigga/frigga-app/platforms/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes_0.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/jeffyan/jeff.yan/work/qq/frigga/frigga-app/platforms/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex

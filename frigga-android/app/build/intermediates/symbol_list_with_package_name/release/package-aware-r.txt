@@ -1,0 +1,11 @@
+com.frigga.app
+drawable ic_action_next_item
+drawable ic_action_previous_item
+drawable ic_action_remove
+drawable screen
+mipmap ic_launcher
+string activity_name
+string app_name
+string launcher_name
+xml config
+xml network_security_config
